@@ -1,4 +1,9 @@
-// I found this code on www.javaworld.com 
+/*
+  Sample from javaworld.com
+  https://www.javaworld.com/article/2076189/enterprise-java/book-excerpt--converting-xml-to-spreadsheet--and-vice-versa.html 
+  
+*/
+
 package com.apress.excel;
 
 import org.apache.poi.hssf.usermodel.*;
